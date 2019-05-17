@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP App on Docker Website',
+        'name' => 'Simple PHP App on Docker Website Test',
         'site_url' => '',
         'pretty_uri' => true,
         'nav_menu' => [
